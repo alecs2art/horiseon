@@ -112,7 +112,7 @@ p {
 
 /* Content Style End */
 
-
+/* Benefits Style Start */
 
 .benefits {
     margin-right: 20px;
@@ -132,23 +132,13 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Benefits Style End */
 
 
 
