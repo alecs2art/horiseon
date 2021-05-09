@@ -7,8 +7,6 @@
 :root {
     --white: #ffffff;
     --blue:  #0072bb;
-
-
 }
 
 body {
@@ -140,7 +138,7 @@ p {
 
 /* Benefits Style End */
 
-
+/* Footer Style Start */
 
 footer {
     padding: 30px;
@@ -152,3 +150,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Fotter Style End */
